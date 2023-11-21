@@ -1,3 +1,7 @@
+body{
+    display: flex;
+    justify-content: space-between;
+}
 .qqq
 {
     width: 300px;
